@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### My name is Luai and I am a rising Senior in the faculty of mechanical engineering at McGill University. I am very passionate about mechatronics, robotics, and software development in the context of controls, automation, firmware. 
+## 💻  My name is Luai and I am a rising Senior in the faculty of mechanical engineering at McGill University. I am very passionate about mechatronics, robotics, and software development in the context of controls, automation, firmware. 🤖
 
-### Currently working on Heat Transfer simulation development @ Maya, previously as a Firmware Engineering intern @ Taiga and incoming as a Software Engineering intern @ Tesla for the spring of 2023.
+## ⚡ Currently working on Heat Transfer simulation development @ Maya, previously as a Firmware Engineering intern @ Taiga and incoming as a Software Engineering intern @ Tesla for the spring of 2023. ⚡
 
 <!--
 **luaiabuelsamen/luaiabuelsamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

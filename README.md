@@ -5,15 +5,16 @@
 
 
 ## :sassy_man:  About me
-💻  I am a rising Senior in the faculty of mechanical engineering at McGill University. I am very passionate about mechatronics, robotics, and software development in the context of controls, automation, firmware. 🤖
+💻  I am a Senior in the faculty of mechanical engineering at McGill University. I am very passionate about mechatronics, robotics, and software development in the context of controls, automation, firmware. 🤖
 
 
 ## ⚡ Currently working on:
-🔥 Heat Transfer simulation development @ Maya
+ Software Validation for energy products @ Tesla
+ 
 ## Previously:
+🔥 Heat Transfer simulation development @ Maya
 ⚡ Firmware Engineering intern @ Taiga
 # Incoming:
-⚡As a Software Engineering intern @ Tesla for the spring of 2023.
 
 ## 🛠️ My Skills
 

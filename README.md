@@ -12,8 +12,9 @@
  Software Validation for energy products @ Tesla
  
 ## Previously:
-🔥 Heat Transfer simulation development @ Maya \n
-⚡ Firmware Engineering intern @ Taiga \n
+🔥 Heat Transfer simulation development @ Maya 
+<br>
+⚡ Firmware Engineering intern @ Taiga
 
 ## 🛠️ My Skills
 

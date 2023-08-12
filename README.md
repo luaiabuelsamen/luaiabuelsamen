@@ -14,7 +14,6 @@
 ## Previously:
 🔥 Heat Transfer simulation development @ Maya
 ⚡ Firmware Engineering intern @ Taiga
-# Incoming:
 
 ## 🛠️ My Skills
 

@@ -14,8 +14,7 @@
 - **Firmware Engineering Intern** at Taiga Motors – Focused on embedded systems for electric watercraft 🚤
 - **Simulation Developer** at Beta Technologies – Developed tools for aircraft laminate simulation ✈️
 - **Software Engineer** at Maya HTT – Created simulation tools for heat transfer and material analysis 🔥
-- **Firmware Engineering** intern at Taiga Motors, focusing on electric personal watercraft systems 🚤
-
+  
 ## 🛠️ My Skills
 
 ### 👉 Programming Languages
